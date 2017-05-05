@@ -1,0 +1,5 @@
+MH01|Dragonball|duong|2015|120|12000|con|ANh|
+MH01|Doremon|duong|2015|120|15000|Ti?ngAnh|CònSách|
+MH02|Khoahoc|duong|2016|10|1200|con|tienganh|
+MH02|Khoahoc|duong|2016|10|1200|con|tienganh|
+MH02|Khoahoc|duong|2016|10|1200|con|tienganh|
